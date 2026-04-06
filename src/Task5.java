@@ -6,7 +6,7 @@ public class Task5 {
 
     }
 
-      return (nums[nums.length -2] ==0 || (nums[1] != 2 || nums[1] != 3);
+      return(nums[nums.length -2] ==0 || (nums[1] != 2 || nums[1] != 3);
 
 }
 }

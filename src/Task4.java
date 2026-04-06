@@ -4,7 +4,7 @@ public class Task4 {
 
     }
 
-    public static boolean task3  (int a , int b ,nums[]){
+    public static Integer task4  (int a , int b ,nums[]){
 
         int 'a' ;
         int 'b' ;
